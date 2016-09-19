@@ -2,4 +2,4 @@
 
 Administracijos ir biudžetinių įstaigų viešųjų pirkimų duomenys
 
-viesieji pirkimai.csv - 2016 metų viešieji pirkimai nuo sausio iki rugpjūčio mėn.
+Viešųjų pirkimų forma taisyta09_19.csv - 09-19 d. atnaujintas sąrašas
